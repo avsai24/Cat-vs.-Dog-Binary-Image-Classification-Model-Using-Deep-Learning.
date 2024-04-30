@@ -1,1 +1,1 @@
-# Cat-vs.-Dog-Binary-Image-Classification-Model-Using-Deep-Learning.
+# In our project, we're exploring various pooling techniques and their impact on our model. Specifically, we're focusing on two types: max pooling and average pooling. Max pooling selects the maximum value from each patch of the input feature map, while average pooling computes the average value. By studying these techniques, we aim to understand how they influence the performance and behavior of our model.
